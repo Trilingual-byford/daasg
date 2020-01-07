@@ -5,7 +5,14 @@ import "./styles.css";
 import Box from "@material-ui/core/Box";
 import DogCardGallery from "./components/DogCardGallery";
 import Typography from "@material-ui/core/Typography";
-
+import AboutBox from "./components/box/AboutBox";
+import DogAsAServiceBox from "./components/box/DogAsAServiceBox";
+import MemeBox from "./components/box/MemeBox";
+import PostADogBox from "./components/box/PostADogBox";
+// <DogCardGallery />
+// {children}
+// value:{value}
+// index:{index}
 function TabPanel(props) {
   const { children, value, index, ...other } = props;
 
@@ -19,10 +26,10 @@ function TabPanel(props) {
           {...other}
       >
             <Box >
-                <DogCardGallery />
-                {children}
-                value:{value}
-                index:{index}
+                <AboutBox />
+                <DogAsAServiceBox />
+                <MemeBox />
+                <PostADogBox />
             </Box>
 
       </Typography>
