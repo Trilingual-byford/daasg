@@ -1,39 +1,43 @@
-import React, { Fragment } from "react";
+import React, {Fragment} from "react";
 import ReactDOM from "react-dom";
 import AppHeaderBar from "./components/AppHeaderBar";
 import "./styles.css";
-import Box from "@material-ui/core/Box";
-import DogCardGallery from "./components/DogCardGallery";
 import Typography from "@material-ui/core/Typography";
 import AboutBox from "./components/box/AboutBox";
 import DogAsAServiceBox from "./components/box/DogAsAServiceBox";
 import MemeBox from "./components/box/MemeBox";
 import PostADogBox from "./components/box/PostADogBox";
-// <DogCardGallery />
-// {children}
-// value:{value}
-// index:{index}
+
 function TabPanel(props) {
-  const { children, value, index, ...other } = props;
+    const {children, value, index, ...other} = props;
+    const boxSelector = () => {
+        console.log("boxSelector", value)
 
-  return (
-      <Typography
-          component="div"
-          role="tabpanel"
-          hidden={value !== index}
-          id={`nav-tabpanel-${index}`}
-          aria-labelledby={`nav-tab-${index}`}
-          {...other}
-      >
-            <Box >
-                <AboutBox />
-                <DogAsAServiceBox />
-                <MemeBox />
-                <PostADogBox />
-            </Box>
-
-      </Typography>
-  );
+        switch (value) {
+            case 0:
+                return <DogAsAServiceBox/>;
+            case 1:
+                return <PostADogBox/>;
+            case 2:
+                return <MemeBox/>;
+            case 3:
+                return <AboutBox/>;
+            default:
+                return "Nothing in default yet";
+        }
+    };
+    return (
+        <Typography
+            component="div"
+            role="tabpanel"
+            id={`nav-tabpanel-${index}`}
+            hidden={value !== index}
+            aria-labelledby={`nav-tab-${index}`}
+            {...other}
+        >
+            {(boxSelector())}
+        </Typography>
+    );
 }
 
 class App extends React.Component {
@@ -41,29 +45,25 @@ class App extends React.Component {
         super(props);
         this.state = {value: 0};
     }
-    tableSelector=(index)=>{
+
+    tableSelector = (index) => {
         this.setState({value: index})
-    }
+        console.log(index)
+    };
+
     render() {
-    return (
-      <Fragment>
-        <AppHeaderBar click={this.tableSelector.bind(this)} />
-          <TabPanel value={this.state.value} index={0}>
-              Page One
-          </TabPanel>
-          <TabPanel value={this.state.value} index={1}>
-              Page Two
-          </TabPanel>
-          <TabPanel value={this.state.value} index={2}>
-              Page Three
-          </TabPanel>
-          <TabPanel value={this.state.value} index={3}>
-              Page Three
-          </TabPanel>
-      </Fragment>
-    );
-  }
+        return (
+            <Fragment>
+                <AppHeaderBar click={this.tableSelector}/>
+                <TabPanel value={this.state.value} index={0}/>
+                <TabPanel value={this.state.value} index={1}/>
+                <TabPanel value={this.state.value} index={2}/>
+                <TabPanel value={this.state.value} index={3}/>
+            </Fragment>
+        );
+    }
 }
+
 const secondElement = document.getElementById("root");
-ReactDOM.render(<App />, secondElement);
+ReactDOM.render(<App/>, secondElement);
 
