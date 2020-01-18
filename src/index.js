@@ -7,6 +7,7 @@ import AboutBox from "./components/box/AboutBox";
 import DogAsAServiceBox from "./components/box/DogAsAServiceBox";
 import MemeBox from "./components/box/MemeBox";
 import PostADogBox from "./components/box/PostADogBox";
+import Parallax from "./components/parallax"
 
 function TabPanel(props) {
     const {children, value, index, ...other} = props;
@@ -40,30 +41,33 @@ function TabPanel(props) {
     );
 }
 
+
 class App extends React.Component {
     constructor(props) {
         super(props);
         this.state = {value: 0};
+        this.onRef=this.onRef.bind(this);
     }
-
     tableSelector = (index) => {
-        this.setState({value: index})
-        console.log(index)
+        this.setState({value: index});
+        console.log(index);
+        this.child.scroll(index);
     };
-
+    onRef = (ref) => {
+        this.child = ref
+    };
     render() {
         return (
             <Fragment>
                 <AppHeaderBar click={this.tableSelector}/>
-                <TabPanel value={this.state.value} index={0}/>
-                <TabPanel value={this.state.value} index={1}/>
-                <TabPanel value={this.state.value} index={2}/>
-                <TabPanel value={this.state.value} index={3}/>
+                <div className="app-container">
+                    <Parallax onRef={this.onRef}/>
+                </div>
             </Fragment>
         );
     }
 }
 
-const secondElement = document.getElementById("root");
+const secondElement = document.getElementById("appcontainer");
 ReactDOM.render(<App/>, secondElement);
 

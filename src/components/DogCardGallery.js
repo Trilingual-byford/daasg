@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useSprings, animated, interpolate } from "react-spring";
+
 import { useGesture } from "react-use-gesture";
 import "./cardGallery.css";
 const cards = [
