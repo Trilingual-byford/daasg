@@ -9,37 +9,22 @@ import MemeBox from "./components/box/MemeBox";
 import PostADogBox from "./components/box/PostADogBox";
 import Parallax from "./components/parallax"
 
-function TabPanel(props) {
-    const {children, value, index, ...other} = props;
-    const boxSelector = () => {
-        console.log("boxSelector", value)
-
-        switch (value) {
-            case 0:
-                return <DogAsAServiceBox/>;
-            case 1:
-                return <PostADogBox/>;
-            case 2:
-                return <MemeBox/>;
-            case 3:
-                return <AboutBox/>;
-            default:
-                return "Nothing in default yet";
-        }
-    };
-    return (
-        <Typography
-            component="div"
-            role="tabpanel"
-            id={`nav-tabpanel-${index}`}
-            hidden={value !== index}
-            aria-labelledby={`nav-tab-${index}`}
-            {...other}
-        >
-            {(boxSelector())}
-        </Typography>
-    );
-}
+// function TabPanel(props) {
+//     const {children, value, index, ...other} = props;
+//
+//     return (
+//         <Typography
+//             component="div"
+//             role="tabpanel"
+//             id={`nav-tabpanel-${index}`}
+//             hidden={value !== index}
+//             aria-labelledby={`nav-tab-${index}`}
+//             {...other}
+//         >
+//             {(boxSelector())}
+//         </Typography>
+//     );
+// }
 
 
 class App extends React.Component {

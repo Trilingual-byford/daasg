@@ -1,31 +1,30 @@
 import React from 'react'
 import {Parallax} from 'react-spring/renderprops-addons'
 import './styles.css'
+import DogAsAServiceBox from "../box/DogAsAServiceBox";
+import PostADogBox from "../box/PostADogBox";
+import MemeBox from "../box/MemeBox";
+import AboutBox from "../box/AboutBox";
 
 const Page = ({offset, caption, first, second, gradient, onClick}) => (
-    <React.Fragment>
-        <Parallax.Layer offset={offset} speed={0.2} onClick={onClick}>
-            <div className="slopeBegin"/>
-        </Parallax.Layer>
-
-        <Parallax.Layer offset={offset} speed={-0.2} onClick={onClick}>
-            <div className={`slopeEnd ${gradient}`}/>
-        </Parallax.Layer>
-
-        <Parallax.Layer className="text number" offset={offset} speed={0.3}>
-            <span>0{offset + 1}</span>
-        </Parallax.Layer>
-
-        <Parallax.Layer className="text header" offset={offset} speed={0.4}>
-      <span>
-        <p style={{fontSize: 20}}>{caption}</p>
-        <div className={`stripe ${gradient}`}/>
-        <p>{first}</p>
-        <p>{second}</p>
-      </span>
-        </Parallax.Layer>
-    </React.Fragment>
+    boxSelector(offset)
 );
+const boxSelector = (offset) => {
+    console.log("boxSelector", offset)
+
+    switch (offset) {
+        case 0:
+            return <DogAsAServiceBox/>;
+        case 1:
+            return <PostADogBox/>;
+        case 2:
+            return <MemeBox/>;
+        case 3:
+            return <AboutBox/>;
+        default:
+            return "Nothing in default yet";
+    }
+};
 
 export default class extends React.Component {
     scroll = to => this.refs.parallax.scrollTo(to);
@@ -34,6 +33,7 @@ export default class extends React.Component {
         super();
         this.scroll = this.scroll.bind(this);
     }
+
     componentDidMount() {
         this.props.onRef(this)
     }
