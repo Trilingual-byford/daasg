@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 https://www.splashtop.com/downloads#b
 ## Available Scripts
 https://meet.lync.com/fsio365/ikenouch/RGHJ169G 
+https://docs.google.com/spreadsheets/d/1ulP0o-i9neJ3PForg2EO8xpG-MANEljgg9lUFPcOv90/edit#gid=1500903182
 
 In the project directory, you can run:
 
