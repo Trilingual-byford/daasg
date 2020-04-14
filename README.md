@@ -3,6 +3,11 @@ https://www.splashtop.com/downloads#b
 ## Available Scripts
 https://meet.lync.com/fsio365/ikenouch/RGHJ169G 
 https://docs.google.com/spreadsheets/d/1ulP0o-i9neJ3PForg2EO8xpG-MANEljgg9lUFPcOv90/edit#gid=1500903182
+本日のZoom会議室ですが、こちらをご利用ください。
+https://zoom.us/j/97240749340?pwd=M1ZOWnczWldUaEhCZ1VjcUVoM25XQT09
+
+ミーティングID: 972-4074-9340
+パスワード：1234
 
 hangout
 https://hangouts.google.com/call/CckQKEX0JiUBawtP6HbVAEEM
