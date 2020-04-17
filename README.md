@@ -13,6 +13,7 @@ hangout
 https://hangouts.google.com/call/CckQKEX0JiUBawtP6HbVAEEM
 In the project directory, you can run:
 
+https://zoom.us/j/98953248323?status=success
 ### `yarn start`
 
 Runs the app in the development mode.<br />
