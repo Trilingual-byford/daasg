@@ -9,6 +9,7 @@ https://zoom.us/j/97240749340?pwd=M1ZOWnczWldUaEhCZ1VjcUVoM25XQT09
 ミーティングID: 972-4074-9340
 パスワード：1234
 
+https://stackoverflow.com/questions/44989966/react-native-open-google-maps-with-specific-address-on-android
 hangout
 https://hangouts.google.com/call/CckQKEX0JiUBawtP6HbVAEEM
 In the project directory, you can run:
