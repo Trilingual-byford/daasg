@@ -87,3 +87,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 以下zoomで確認させてください。
 https://us04web.zoom.us/j/9590997793?pwd=QnJwWHFwZ2djeFRSQU5adlJHTjhEQT09
 パスワード:2sWBiT
+
+https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
