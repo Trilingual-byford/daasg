@@ -89,3 +89,6 @@ https://us04web.zoom.us/j/9590997793?pwd=QnJwWHFwZ2djeFRSQU5adlJHTjhEQT09
 パスワード:2sWBiT
 
 https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
+
+
+https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09&status=success
