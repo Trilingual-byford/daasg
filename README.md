@@ -100,3 +100,9 @@ https://zoom.us/j/6697682292?pwd=L2RFK053Q1REam9VZWt0aUN0V3E2QT09
 
 ミーティングID: 669 768 2292
 パスワード: jisedai
+
+Zoomミーティングに参加する
+https://zoom.us/j/6697682292?pwd=L2RFK053Q1REam9VZWt0aUN0V3E2QT09
+
+ミーティングID: 669 768 2292
+パスワード: jisedai
