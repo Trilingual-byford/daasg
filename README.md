@@ -95,7 +95,8 @@ https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09&status=success
 
 https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09
 
-
+ikenouchi:
+https://zoom.us/j/97240749340?pwd=M1ZOWnczWldUaEhCZ1VjcUVoM25XQT09
 https://zoom.us/j/6697682292?pwd=L2RFK053Q1REam9VZWt0aUN0V3E2QT09
 
 ミーティングID: 669 768 2292
