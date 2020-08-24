@@ -32,6 +32,8 @@ https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
 https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09&status=success
 
 https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09
+yamamoto:https://zoom.us/j/5436647867?pwd=MHdGNmo1Mm8yalMvT2tyc0FyNzVkdz09
+
 
 ikenouchi:
 https://zoom.us/j/97240749340?pwd=M1ZOWnczWldUaEhCZ1VjcUVoM25XQT09
