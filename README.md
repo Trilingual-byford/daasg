@@ -68,3 +68,5 @@ https://zoom.us/j/97240749340?pwd=M1ZOWnczWldUaEhCZ1VjcUVoM25XQT09
 ミーティングID: 972 4074 9340
 パスコード: 1234
 ..
+ https://cu-nri.zoom.us/j/96624505995?pwd=UVRGbDBlTGt6V2R4MitSWGw5alladz09
+
