@@ -31,6 +31,8 @@ https://us04web.zoom.us/j/9590997793?pwd=QnJwWHFwZ2djeFRSQU5adlJHTjhEQT09
 yamamoto:https://zoom.us/j/5436647867?pwd=MHdGNmo1Mm8yalMvT2tyc0FyNzVkdz09
 
 
+https://cu-nri.zoom.us/j/91828457562?pwd=SlRvemUyVklqaGkxQis2Skhwdk1Tdz09   
+
 
 
 https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
@@ -83,3 +85,5 @@ https://zoom.us/j/97240749340?pwd=M1ZOWnczWldUaEhCZ1VjcUVoM25XQT09
 
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=<YourStrong!Passw0rd>123" -p 1433:1433 --name sql -d mcr.microsoft.com/mssql/server:2017-latest
 
+
+https://cu-nri.zoom.us/j/91828457562?pwd=SlRvemUyVklqaGkxQis2Skhwdk1Tdz09   
