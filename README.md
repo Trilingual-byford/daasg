@@ -88,4 +88,4 @@ docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=<YourStrong!Passw0rd>123" -p 1433:
 
 https://cu-nri.zoom.us/j/91828457562?pwd=SlRvemUyVklqaGkxQis2Skhwdk1Tdz09   
 
-Hobbies and pastimes.
+Hobbies and pastimes. 
