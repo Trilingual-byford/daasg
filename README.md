@@ -24,13 +24,6 @@ yeyuexiao021@gmail.com
 
 ＠Byford　Chen
 https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
-
-以下zoomで確認させてください。
-https://us04web.zoom.us/j/9590997793?pwd=QnJwWHFwZ2djeFRSQU5adlJHTjhEQT09
-パスワード:2sWBiT
-yamamoto:https://zoom.us/j/5436647867?pwd=MHdGNmo1Mm8yalMvT2tyc0FyNzVkdz09
-
-
 https://cu-nri.zoom.us/j/91828457562?pwd=SlRvemUyVklqaGkxQis2Skhwdk1Tdz09   
 
 
