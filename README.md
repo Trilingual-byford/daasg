@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 shinohara:https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09
 
-new SimpleDateFormat().parse("Mon 22 Mar 2021 05:23:31");
-"Mon, 22 Mar 2021 03:22:12 GMT"
+
 
 SimpleDateFormat simpleDateFormat = new SimpleDateFormat("EEE, dd MMM yyyy hh:mm:ss z");
             Date parse = simpleDateFormat.parse("Mon, 22 Mar 2021 03:22:12 GMT");
