@@ -3,8 +3,6 @@ shinohara:https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09
 
 
 
-SimpleDateFormat simpleDateFormat = new SimpleDateFormat("EEE, dd MMM yyyy hh:mm:ss z");
-            Date parse = simpleDateFormat.parse("Mon, 22 Mar 2021 03:22:12 GMT");
 
 ミーティングID: 972-4074-9340
 パスワード：1234
