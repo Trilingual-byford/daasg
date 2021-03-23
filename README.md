@@ -2,11 +2,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 shinohara:https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09
 
 
-
-
-ミーティングID: 972-4074-9340
-パスワード：1234
-
 https://stackoverflow.com/questions/44989966/react-native-open-google-maps-with-specific-address-on-android
 hangout
 https://hangouts.google.com/call/CckQKEX0JiUBawtP6HbVAEEM
