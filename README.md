@@ -10,7 +10,6 @@ In the project directory, you can run:
 伊藤さん：https://zoom.us/j/98953248323?status=success
 https://www.google.com/url?q=https://cu-nri.zoom.us/j/97096526135?pwd%3DUHQ3d2hNaGxDa2ZvTWVOWTZ1ZDkrQT09&sa=D&ust=1588050003914000&usg=AOvVaw0xJFbKGex32C7PlAqbFpOt
 
-yeyuexiao021@gmail.com
 
 ＠Byford　Chen
 https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
