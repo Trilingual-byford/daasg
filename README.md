@@ -70,5 +70,7 @@ https://zoom.us/j/97240749340?pwd=M1ZOWnczWldUaEhCZ1VjcUVoM25XQT09
 docker run -e "ACCEPT_EULA=Y" -e "SA_PASSWORD=<YourStrong!Passw0rd>123" -p 1433:1433 --name sql -d mcr.microsoft.com/mssql/server:2017-latest
 
 
+CD/CD　Build　Best　practice
+https://tomgregory.com/building-a-spring-boot-application-in-jenkins/
 
 
