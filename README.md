@@ -1,4 +1,3 @@
-https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
