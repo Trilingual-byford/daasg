@@ -3,6 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 shinohara:https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09
 
+https://zoom.us/j/98953248323?pwd=SUkwbThwSlMrY2tQa0FwN3VRUm5kZz09#success
 
 https://stackoverflow.com/questions/44989966/react-native-open-google-maps-with-specific-address-on-android
 hangout
