@@ -86,4 +86,4 @@ https://tomgregory.com/building-a-spring-boot-application-in-jenkins/
 提交给Hallowork（日本公共职业安定所）的雇佣保险者离职票的复印件也可以证明您已离职原公司。
 
  
-
+https://bridgers.asia/recruit/koyouriyusho01/
