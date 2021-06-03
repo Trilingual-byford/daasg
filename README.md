@@ -77,3 +77,5 @@ CD/CD　Build　Best　practice
 https://tomgregory.com/building-a-spring-boot-application-in-jenkins/
  
 https://bridgers.asia/recruit/koyouriyusho01/
+
+https://news.yahoo.co.jp/byline/yanagitarikao/20210602-00240979/
