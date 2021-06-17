@@ -81,3 +81,4 @@ https://bridgers.asia/recruit/koyouriyusho01/
 
 https://www.reddit.com/r/memes/comments/nuydw4/fuck_wasps/
 https://news.yahoo.co.jp/byline/yanagitarikao/20210602-00240979/
+https://nazology.net/archives/91085  休憩と上達　脳科学
