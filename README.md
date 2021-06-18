@@ -83,3 +83,4 @@ https://www.reddit.com/r/memes/comments/nuydw4/fuck_wasps/
 https://news.yahoo.co.jp/byline/yanagitarikao/20210602-00240979/
 https://nazology.net/archives/91085  休憩と上達　脳科学
 https://developers.turing.com/dashboard/home?n=skilltargetting_static&s=ads_developers-reddit Remote job related.
+https://www.youtube.com/watch?v=sDbK84GEE94 Resume optimization
