@@ -87,3 +87,8 @@ https://www.youtube.com/watch?v=sDbK84GEE94 Resume optimization
 
 
 https://www.reddit.com/r/AnimalsBeingDerps/comments/o2j32o/why_use_your_hands_when_your_mouth_will_do/
+
+柴犬 https://www.lei168.com/saitama/information.php?id=63292 
+英短 https://www.lei168.com/tokyo/information.php?id=73927
+白色折耳猫 https://www.lei168.com/tokyo/information.php?id=75642
+拿破仑 https://www.lei168.com/tokyo/information.php?id=75363
