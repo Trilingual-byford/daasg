@@ -92,3 +92,5 @@ https://www.reddit.com/r/AnimalsBeingDerps/comments/o2j32o/why_use_your_hands_wh
 英短 https://www.lei168.com/tokyo/information.php?id=73927
 白色折耳猫 https://www.lei168.com/tokyo/information.php?id=75642
 拿破仑 https://www.lei168.com/tokyo/information.php?id=75363
+ニュアンスパーマで無造作ヘア  https://hair.cm/news/42839/
+
