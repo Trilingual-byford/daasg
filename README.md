@@ -93,4 +93,5 @@ https://www.reddit.com/r/AnimalsBeingDerps/comments/o2j32o/why_use_your_hands_wh
 白色折耳猫 https://www.lei168.com/tokyo/information.php?id=75642
 拿破仑 https://www.lei168.com/tokyo/information.php?id=75363
 ニュアンスパーマで無造作ヘア  https://hair.cm/news/42839/
+Jocker https://www.reddit.com/r/ShittyLifeProTips/comments/o69ukg/slpt_how_to_become_a_pro_chess_player_really_quick/
 
