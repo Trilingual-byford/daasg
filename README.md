@@ -95,3 +95,4 @@ https://www.reddit.com/r/AnimalsBeingDerps/comments/o2j32o/why_use_your_hands_wh
 ニュアンスパーマで無造作ヘア  https://hair.cm/news/42839/
 Jocker https://www.reddit.com/r/ShittyLifeProTips/comments/o69ukg/slpt_how_to_become_a_pro_chess_player_really_quick/
 
+https://www.reddit.com/r/facepalm/comments/o6oa30/passive_income/
