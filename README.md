@@ -98,3 +98,5 @@ Jocker https://www.reddit.com/r/ShittyLifeProTips/comments/o69ukg/slpt_how_to_be
 https://www.reddit.com/r/facepalm/comments/o6oa30/passive_income/
 
 https://www.reddit.com/r/Unexpected/comments/o7i9ow/snake_hole_in_house/
+
+
