@@ -101,3 +101,5 @@ https://www.reddit.com/r/Unexpected/comments/o7i9ow/snake_hole_in_house/
 https://www.reddit.com/r/WhitePeopleTwitter/comments/o9uj0u/gimme_five_bees_for_a_quarter/
 https://www.reddit.com/r/technicallythetruth/comments/o9jayt/morning_coffee_vs_morning_people/
 https://www.reddit.com/r/technicallythetruth/comments/o726u8/joe_biden_is_not_my_president/
+
+https://www.reddit.com/r/dankmemes/comments/oaroxv/its_stupid/
