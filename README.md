@@ -103,3 +103,5 @@ https://www.reddit.com/r/technicallythetruth/comments/o9jayt/morning_coffee_vs_m
 https://www.reddit.com/r/technicallythetruth/comments/o726u8/joe_biden_is_not_my_president/
 
 https://www.reddit.com/r/dankmemes/comments/oaroxv/its_stupid/
+
+https://www.youtube.com/channel/UCajrdoGzHzDogrNrLYYmGsg/featured
