@@ -107,3 +107,4 @@ https://www.reddit.com/r/dankmemes/comments/oaroxv/its_stupid/
 https://www.youtube.com/channel/UCajrdoGzHzDogrNrLYYmGsg/featured
 
 https://www.reddit.com/r/MurderedByWords/comments/oblzek/ive_had_a_32_tv_for_longer_than_id_like_to_admit/
+https://www.reddit.com/r/AnimalsBeingDerps/comments/oc6vxe/this_is_the_new_walk_style_ok/
