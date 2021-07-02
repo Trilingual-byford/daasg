@@ -105,3 +105,5 @@ https://www.reddit.com/r/technicallythetruth/comments/o726u8/joe_biden_is_not_my
 https://www.reddit.com/r/dankmemes/comments/oaroxv/its_stupid/
 
 https://www.youtube.com/channel/UCajrdoGzHzDogrNrLYYmGsg/featured
+
+https://www.reddit.com/r/MurderedByWords/comments/oblzek/ive_had_a_32_tv_for_longer_than_id_like_to_admit/
