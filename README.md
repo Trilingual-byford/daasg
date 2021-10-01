@@ -86,6 +86,7 @@ https://nazology.net/archives/91085  休憩と上達　脳科学
 https://developers.turing.com/dashboard/home?n=skilltargetting_static&s=ads_developers-reddit Remote job related.
 https://www.youtube.com/watch?v=sDbK84GEE94 Resume optimization
 
+10月2日（土）17時～のバドミントン（・卓球）の件（場所は西川口駅東口徒歩5分の並木公民館2Fです）
 
 https://www.reddit.com/r/AnimalsBeingDerps/comments/o2j32o/why_use_your_hands_when_your_mouth_will_do/
 
