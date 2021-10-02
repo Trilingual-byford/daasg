@@ -118,4 +118,12 @@ https://www.reddit.com/r/HolUp/comments/onuy77/dadbod/
 
 magnet:?xt=urn:btih:E54E026B4282C9429817E02DAFB6E2DE86D56F41
 
+链接：https://pan.baidu.com/s/1_TvkW8OiVqeEzoyVff5e8w 
+提取码：2i30
 
+游戏下载
+magnet:?xt=urn:btih:E54E026B4282C9429817E02DAFB6E2DE86D56F41
+
+网盘资源和磁力链接下载游戏都可以，教程在网盘里，你不懂就问问我
+
+磁力链接和百度网盘二选一，都是游戏本体
