@@ -131,3 +131,19 @@ magnet:?xt=urn:btih:E54E026B4282C9429817E02DAFB6E2DE86D56F41
 
 呼び出されるメソッドのアドレス（ここでは0x34648e88）。
 第4列は、ベースアドレスとオフセットの2つのサブ列に分かれています。 ここでは、「0×83000＋8740」となっており、最初の数字はファイルを、2番目の数字はファイル内のコードの行を示しています。
+
+■Date & Time: November 29, 2021 (Mon) 1:00 PM (JST) start
+
+*Please click the Zoom link 15 minutes prior to the start of the interview and wait online.
+
+ 
+
+■Duration: approximately 30 ~ 60 minutes
+
+ 
+
+
+======================================
+■Zoom Link: https://rakuten.zoom.us/j/94136869016?pwd=b0xCaHM2cnlSbTErZGJ4VjRXdjdXZz09
+
+■Password: 402682
