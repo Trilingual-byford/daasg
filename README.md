@@ -147,3 +147,10 @@ magnet:?xt=urn:btih:E54E026B4282C9429817E02DAFB6E2DE86D56F41
 ■Zoom Link: https://rakuten.zoom.us/j/94136869016?pwd=b0xCaHM2cnlSbTErZGJ4VjRXdjdXZz09
 
 ■Password: 402682
+
+
+
+
+Hi, my name is CHEN BOFENG from China. I’m a Full stack developer for about 4 years. I came to Japan 3 years ago. I started my career as server enginner in IBM back in my home country for 1 year, moved to Japan and worked with A company for 1.5 years as a backend and android developer. Currently, I’m Working in a team with member of 13 as a mobile app developer. A recent project I contributed the most was developing a app that serves 10k users per day using springboot for backend and react native for front-end. I’m good at backend with springboot and looking forward to work more in backend using more devops tools like docker and Kubernetes . I think that’s all about me. Nice to meet you.
+
+**
