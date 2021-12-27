@@ -4,30 +4,6 @@ https://www.androidhive.info/RxJava/rxjava-operators-buffer-debounce/#buffer
 https://www.reddit.com/r/HolUp/
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-shinohara:https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09
-
-https://zoom.us/j/98953248323?pwd=SUkwbThwSlMrY2tQa0FwN3VRUm5kZz09#success
-
-https://stackoverflow.com/questions/44989966/react-native-open-google-maps-with-specific-address-on-android
-hangout
-https://hangouts.google.com/call/CckQKEX0JiUBawtP6HbVAEEM
-In the project directory, you can run:
-
-伊藤さん：https://zoom.us/j/98953248323?status=success
-https://www.google.com/url?q=https://cu-nri.zoom.us/j/97096526135?pwd%3DUHQ3d2hNaGxDa2ZvTWVOWTZ1ZDkrQT09&sa=D&ust=1588050003914000&usg=AOvVaw0xJFbKGex32C7PlAqbFpOt
-
-
-＠Byford　Chen
-https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
-https://cu-nri.zoom.us/j/91828457562?pwd=SlRvemUyVklqaGkxQis2Skhwdk1Tdz09   
-
-
-
-
-https://us04web.zoom.us/j/4461709584?pwd=NEZJRFR0YmczRXZrN2FpZW9RdmkvUT09
-
-
 
 https://zoom.us/j/7508735670?pwd=OUxtdzF6L2plMkNPMlZsVmJFWXNvQT09
 yamamoto:https://zoom.us/j/5436647867?pwd=MHdGNmo1Mm8yalMvT2tyc0FyNzVkdz09
@@ -90,11 +66,6 @@ https://www.youtube.com/watch?v=sDbK84GEE94 Resume optimization
 
 https://www.reddit.com/r/AnimalsBeingDerps/comments/o2j32o/why_use_your_hands_when_your_mouth_will_do/
 
-柴犬 https://www.lei168.com/saitama/information.php?id=63292 
-英短 https://www.lei168.com/tokyo/information.php?id=73927
-白色折耳猫 https://www.lei168.com/tokyo/information.php?id=75642
-拿破仑 https://www.lei168.com/tokyo/information.php?id=75363
-ニュアンスパーマで無造作ヘア  https://hair.cm/news/42839/
 Jocker https://www.reddit.com/r/ShittyLifeProTips/comments/o69ukg/slpt_how_to_become_a_pro_chess_player_really_quick/
 
 https://www.reddit.com/r/facepalm/comments/o6oa30/passive_income/
@@ -113,44 +84,3 @@ https://www.reddit.com/r/AnimalsBeingDerps/comments/oc6vxe/this_is_the_new_walk_
 https://www.reddit.com/r/AnimalsBeingDerps/comments/oa50qr/when_eating_is_more_important_than_breathing/
 https://www.reddit.com/r/HolUp/comments/onuy77/dadbod/
 
-
-00300980023 16:30 Xperia 白い
-
-magnet:?xt=urn:btih:E54E026B4282C9429817E02DAFB6E2DE86D56F41
-
-链接：https://pan.baidu.com/s/1_TvkW8OiVqeEzoyVff5e8w 
-提取码：2i30
-
-游戏下载
-magnet:?xt=urn:btih:E54E026B4282C9429817E02DAFB6E2DE86D56F41
-
-网盘资源和磁力链接下载游戏都可以，教程在网盘里，你不懂就问问我
-
-磁力链接和百度网盘二选一，都是游戏本体
-
-
-呼び出されるメソッドのアドレス（ここでは0x34648e88）。
-第4列は、ベースアドレスとオフセットの2つのサブ列に分かれています。 ここでは、「0×83000＋8740」となっており、最初の数字はファイルを、2番目の数字はファイル内のコードの行を示しています。
-
-■Date & Time: November 29, 2021 (Mon) 1:00 PM (JST) start
-
-*Please click the Zoom link 15 minutes prior to the start of the interview and wait online.
-
- 
-
-■Duration: approximately 30 ~ 60 minutes
-
- 
-
-
-======================================
-■Zoom Link: https://rakuten.zoom.us/j/94136869016?pwd=b0xCaHM2cnlSbTErZGJ4VjRXdjdXZz09
-
-■Password: 402682
-
-
-
-
-Hi, my name is CHEN BOFENG from China. I’m a Full stack developer for about 4 years. I came to Japan 3 years ago. I started my career as server enginner in IBM back in my home country for 1 year, moved to Japan and worked with A company for 1.5 years as a backend and android developer. Currently, I’m Working in a team with member of 13 as a mobile app developer. A recent project I contributed the most was developing a app that serves 10k users per day using springboot for backend and react native for front-end. I’m good at backend with springboot and looking forward to work more in backend using more devops tools like docker and Kubernetes . I think that’s all about me. Nice to meet you.
-
-**
