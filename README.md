@@ -98,3 +98,5 @@ set -euo pipefail
 
 cf target
 cf push
+
+Many a time,if the process is not killed by the command,you may need to pass additional option to ensure that the required process is killed.
