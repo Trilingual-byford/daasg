@@ -100,3 +100,7 @@ cf target
 cf push
 
 Many a time,if the process is not killed by the command,you may need to pass additional option to ensure that the required process is killed.
+
+To know more about various flags of kill,enter following command:
+
+Now,you can press the Ctrl_c key combination to terminate the process created by the sleep command.
