@@ -104,3 +104,6 @@ Many a time,if the process is not killed by the command,you may need to pass add
 To know more about various flags of kill,enter following command:
 
 Now,you can press the Ctrl_c key combination to terminate the process created by the sleep command.
+
+
+链接: https://pan.baidu.com/s/1NNVavyIxudO4l9vIprDopw 提取码: 2io1
